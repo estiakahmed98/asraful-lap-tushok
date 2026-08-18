@@ -36,7 +36,9 @@ export function Header() {
             <img src="/logo.png" alt="" />
           </span>
           <span className="brand-copy">
-            <span className="brand-name"><strong>Rasel</strong> Birds of eden</span>
+            <span className="brand-name">
+              <strong>Asraful</strong> Birds of eden
+            </span>
             <small>আরামে বোনা গল্প</small>
           </span>
         </Link>
@@ -90,13 +92,17 @@ export function Footer() {
               <img src="/logo.png" alt="" />
             </span>
             <span className="brand-copy">
-              <span className="brand-name"><strong>Rasel</strong> Birds of eden</span>
+              <span className="brand-name">
+                <strong>Asraful</strong> Birds of eden
+              </span>
               <small>আরামে বোনা গল্প</small>
             </span>
           </div>
           <p className="footer-copy">
             <span>বাংলার ঘরের জন্য যত্নে তৈরি আরামের আয়োজন—</span>
-            <span>কাঁথা, বেডশিট, লেপ, বালিশ ও তোষকে নিশ্চিন্ত ঘুমের সঙ্গী।</span>
+            <span>
+              কাঁথা, বেডশিট, লেপ, বালিশ ও তোষকে নিশ্চিন্ত ঘুমের সঙ্গী।
+            </span>
           </p>
         </div>
         <div>
@@ -118,7 +124,7 @@ export function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        <span>© ২০২৬ Rasel Birds of eden</span>
+        <span>© ২০২৬ Asraful Birds of eden</span>
         <span>দেশীয় কারিগর ও উপকরণে তৈরি</span>
       </div>
     </footer>

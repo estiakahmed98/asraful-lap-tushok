@@ -117,7 +117,7 @@ export default function Home() {
           <div className="section-heading">
             <div>
               <p className="eyebrow">এই সপ্তাহের পছন্দ</p>
-              <h2>Rasel Birds of eden বেস্টসেলার</h2>
+              <h2>Asraful Birds of eden বেস্টসেলার</h2>
             </div>
             <Link href="/products" className="text-link">
               সব পণ্য <ArrowRight />
@@ -153,7 +153,7 @@ export default function Home() {
           </div>
         </section>
         <section className="quote">
-          <p className="eyebrow">Rasel Birds of eden-এর অঙ্গীকার</p>
+          <p className="eyebrow">Asraful Birds of eden-এর অঙ্গীকার</p>
           <blockquote>
             “ভালো ঘুম, সুন্দর সকাল—
             <br />

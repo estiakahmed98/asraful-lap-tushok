@@ -15,7 +15,7 @@ const displayFont = Noto_Serif_Bengali({
 });
 
 export const metadata: Metadata = {
-  title: "Rasel Birds of eden — কাঁথা, বেডশিট, লেপ ও তোষক",
+  title: "Asraful Birds of eden — কাঁথা, বেডশিট, লেপ ও তোষক",
   description:
     "আপনার ঘরের জন্য মানসম্মত দেশীয় কাঁথা, বেডশিট, লেপ ও তোষক। সারাদেশে হোম ডেলিভারি।",
 };

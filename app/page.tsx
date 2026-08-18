@@ -50,7 +50,7 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-media">
-            <img src="/images/hero.jpg" alt="পরিপাটি ও আরামদায়ক শোবার ঘর" />
+            <img src="/images/Hero.jpeg" alt="পরিপাটি ও আরামদায়ক শোবার ঘর" />
           </div>
           <a href="#categories" className="hero-scroll">
             <ArrowDown /> নিচে দেখুন
